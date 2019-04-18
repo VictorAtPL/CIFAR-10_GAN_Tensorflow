@@ -1,0 +1,8 @@
+google_storage_bucket_content/tfrecords/train-1-of-2.tfrecords filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/tfrecords/train-2-of-2.tfrecords filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_dcgan_17042019_142218/events.out.tfevents.1555510942.47115a155b70 filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_dcgan_17042019_142218/eval/events.out.tfevents.1555511011.47115a155b70 filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_dcgan_17042019_142218/model.ckpt-116000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_mlpgan_17042019_151813/events.out.tfevents.1555514298.47115a155b70 filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_mlpgan_17042019_151813/eval/events.out.tfevents.1555514366.47115a155b70 filter=lfs diff=lfs merge=lfs -text
+google_storage_bucket_content/models_dir/experiments_mlpgan_17042019_151813/model.ckpt-116000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
