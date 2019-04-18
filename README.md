@@ -19,9 +19,10 @@ There are three files for Google Colab, which are described below:
 In order to run any of script please do following:
 1. Open `Google_Colab_*.ipynb` in Google Colab by clicking any of these links: [train_eval_predict](http://colab.research.google.com/github/VictorAtPL/CIFAR-10_GAN_Tensorflow/blob/master/Google_Colab_Train_eval_predict.ipynb),
 [most_similar](http://colab.research.google.com/github/VictorAtPL/CIFAR-10_GAN_Tensorflow/blob/master/Google_Colab_Most_similar.ipynb), [latent_space_interpolation](http://colab.research.google.com/github/VictorAtPL/CIFAR-10_GAN_Tensorflow/blob/master/Google_Colab_Latent_space_interpolation.ipynb),
-2. modify variables placed in the first cell of each notebook,
-3. run all cells,
-4. after all cells execution, please take a look either on the cells output or the Google Storage Bucket, which you provided to store model's checkpoints and generated images in.
+2. set Google Colab environment to support `TPU` computation,
+3. modify variables placed in the first cell of each notebook,
+4. run all cells,
+5. after all cells execution, please take a look either on the cells output or the Google Storage Bucket, which you provided to store model's checkpoints and generated images in.
 
 Results
 ---
